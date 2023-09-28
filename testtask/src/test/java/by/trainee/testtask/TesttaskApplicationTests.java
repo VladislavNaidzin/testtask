@@ -5,12 +5,7 @@ import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-import io.restassured.RestAssured.*;
-import	io.restassured.matcher.RestAssuredMatchers.*;
-import	org.hamcrest.Matchers.*;
-
 import static io.restassured.RestAssured.given;
-import static io.restassured.RestAssured.when;
 import static org.hamcrest.Matchers.*;
 
 @SpringBootTest

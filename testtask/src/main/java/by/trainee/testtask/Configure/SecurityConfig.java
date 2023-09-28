@@ -4,7 +4,6 @@
 
 import by.trainee.testtask.Security.Jwt.JwtAuthenticationEntryPoint;
 import by.trainee.testtask.Security.Jwt.JwtRequestFilter;
-
 import by.trainee.testtask.Security.User.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

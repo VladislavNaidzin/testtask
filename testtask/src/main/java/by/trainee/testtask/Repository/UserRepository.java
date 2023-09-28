@@ -1,10 +1,6 @@
 package by.trainee.testtask.Repository;
 
 
-
-
-
-
 import by.trainee.testtask.Entity.User;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
